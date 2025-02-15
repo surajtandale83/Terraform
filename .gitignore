@@ -1,0 +1,13 @@
+#Local.terraform dictionary
+**/.terraform/*
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# terraform local state files
+ .terraform.lock.hcl
+
+# documentation
+*.doc
+
